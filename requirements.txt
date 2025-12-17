@@ -1,0 +1,11 @@
+streamlit==1.52.1 # Specify version for stability
+pandas
+numpy
+yfinance
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+tensorflow
+xgboost
+lightgbm
